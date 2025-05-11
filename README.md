@@ -1,6 +1,7 @@
 # 🚀 TestApp - Dockerized Web Application
 
 This project contains a simple web application called **TestApp**, containerized using Docker. The goal of this project is to demonstrate containerization, image building, and running a service inside an isolated environment.
+The application is present in the master branch.
 
 ---
 
