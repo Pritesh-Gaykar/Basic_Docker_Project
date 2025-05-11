@@ -18,13 +18,13 @@ https://hub.docker.com/repository/docker/priteshgaykar32/testapp/general
 
 ##Learnings:
 
--Learned Various Docker Commands.
--Learned how Docker Desktop is used. 
--Learned How to write and create .yaml file.
--learned how to build images using docker commands and using .yaml. 
--learned how to create a Dockerefile. 
--learned how to dockerize an application.
--Learned about DockerHub.
+-Learned Various Docker Commands. <br>
+-Learned how Docker Desktop is used. <br>
+-Learned How to write and create .yaml file. <br>
+-learned how to build images using docker commands and using .yaml. <br>
+-learned how to create a Dockerefile. <br>
+-learned how to dockerize an application. <br>
+-Learned about DockerHub. <br>
 
 ##Feel Free to Give a feedback.
 
